@@ -7,7 +7,7 @@ readme = "README.md"
 packages = [{include = "streamlit_sales"}]
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "3.9"
 streamlit = "^1.22.0"
 plotly = "^5.14.1"
 wordcloud = "^1.9.2"
